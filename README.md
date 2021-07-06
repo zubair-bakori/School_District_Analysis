@@ -8,7 +8,7 @@
 
 <img width="987" alt="District_Summary" src="https://user-images.githubusercontent.com/79673198/124542456-69fd5900-ddf1-11eb-884e-ca646f5bdfdb.png">
 
-<img width="1004" alt="Schools_Summary" src="https://user-images.githubusercontent.com/79673198/124542493-771a4800-ddf1-11eb-90c3-fbd978a58707.png">
+<img width="993" alt="Schools_Summary" src="https://user-images.githubusercontent.com/79673198/124542691-dd06cf80-ddf1-11eb-9058-c7f0107547f8.png">
 
 
 ## Summary:
